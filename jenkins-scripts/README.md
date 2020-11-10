@@ -1,1 +1,1 @@
-# Scripts for Jebkins
+# Scripts for Jenkins
